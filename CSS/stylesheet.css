@@ -23,7 +23,10 @@ html, body {
 	margin: auto;
 	background-color: #ffffff;
 	border-radius: 5px;
+	max-width: 960px;
 }
+
+.main p {padding: 10px;}
 
 footer {
 	background-color: #808087;
