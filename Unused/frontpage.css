@@ -1,0 +1,70 @@
+.container {
+	width: 90%;
+	max-width: 920px;
+	margin: auto;
+	background-color: #ffffff;
+}
+
+#name {
+	font-family: 'Droid Serif', Georgia, Serif;
+}
+
+h1 {font-size: 32px;
+}
+
+#left {
+	float: left;
+	width: 30%;
+}
+
+#right {
+	float: right;
+	width: 60%;
+}
+
+.box {
+	width: 30%;
+	height: 30%;
+	border-radius: 10px;
+}
+
+
+
+#about {
+	background-color: blue;
+}
+
+
+
+#cv {
+	background-color: red;
+}
+
+
+
+
+
+#research {
+	background-color: yellow;
+}
+
+
+
+
+#technology {
+	background-color: green;
+}
+
+
+body {
+	height: 100%;
+	width: 100%;
+}
+
+footer {
+	font-family: 'Droid Sans', Helvetica, Sans;
+	font-size: 10px;
+	text-align: center;
+	clear: both;
+}
+
